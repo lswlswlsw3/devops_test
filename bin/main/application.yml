@@ -16,4 +16,4 @@ spring:
       enabled: true
       
 userDefine:
-  message: webhook test2
+  message: webhook test3
